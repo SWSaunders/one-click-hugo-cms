@@ -1,0 +1,51 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+
+<div class="bg-off-white pv4">
+    <div class="ph3 mw7 center">
+        <h2 class="f2 b lh-title mb2">{{.Params.heading}}</h2>
+        {{ range .Params.text }}
+        <p class="f6 mb3 mw8">{{ . }}</p>
+        {{ end }}
+
+        <div class="mhn2-ns mb3">
+            <h5 class="f5 b lh-title mb2">Requirements:</h5>
+            {{ range .Params.reqs }}
+            <ul class="ph4-ns mb2">
+                <li class="f6">{{ . }}</li>
+            </ul>
+            {{ end }}
+        </div>
+
+        <div class="mhn2-ns mb3">
+            <h5 class="f5 b lh-title mb2">Nice to haves:</h5>
+            {{ range .Params.nice }}
+            <ul class="ph4-ns mb2">
+                <li class="f6">{{ . }}</li>
+            </ul>
+            {{ end }}
+        </div>
+
+        <div class="mhn2-ns mb3">
+            <h5 class="f5 b lh-title mb2">Perks:</h5>
+            {{ range .Params.perks }}
+            <ul class="ph4-ns mb2">
+                <li class="f6 mw8">{{ . }}</li>
+            </ul>
+            {{ end }}
+        </div>
+
+        <div class="mhn2-ns mt4 mb3">
+            <h4 class="f4 b lh-title mb2">Open Opportunities:</h4>
+            {{ range .Params.opps }}
+            <div class="tc ph2-ns mb4">
+                <h5 class="f6 b lh-title mb2"><a href="mailto:jobs@allcourse.com?subject={{ .sub }}">{{ .title }}</a></h5>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+
+</div>
+
+{{ end }}
