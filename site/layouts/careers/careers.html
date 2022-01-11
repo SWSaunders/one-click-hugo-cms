@@ -40,10 +40,15 @@
             <h4 class="f4 b lh-title mb2">Open Opportunities:</h4>
             {{ range .Params.opps }}
             <div class="tc ph2-ns mb4">
-                <h5 class="f6 b lh-title mb2"><a href="mailto:jobs@allcourse.com?subject={{ .sub }}">{{ .title }}</a></h5>
+                <h5 class="f6 b lh-title mb2">{{ .title }}</h5>
             </div>
             {{ end }}
         </div>
+
+        <div class="mhn2-ns mb3">
+            <p class="f6 mb3 mw8"><a href="/contact">Contact us</a> to apply.</p>
+        </div>
+
     </div>
 
 </div>
