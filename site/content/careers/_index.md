@@ -24,7 +24,7 @@ reqs:
   - Excellent written and verbal communication
   - Strong sense of agency & ownership
   - Built and deployed production systems serving hundreds of thousands of users
-  - Experience with python
+  - Extensive experience with python & django
 nice:
   - Worked for a very early stage startup (you know how to get things going from scratch)
   - Experience with open edx
@@ -39,7 +39,6 @@ perks:
     Be a hero to family members and friends who are teachers, students, or have children in school. Seriously.
     This will be a service that's truly helpful.
 opps:
-  - title: Principal Software Engineer (Python)
-    sub: "Regarding Principal Software Engineer (Python)"
+  - title: Senior Software Engineer (Python/Django)
 ---
 
