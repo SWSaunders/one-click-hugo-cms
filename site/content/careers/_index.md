@@ -9,7 +9,7 @@ text:
     You recognize there are a bunch of ways to do something well. You want to be a whole person at work. You want
     time and flexibility to be you: to go on a walk, take care of your child, go to the doctor, and feel supported
     by your coworkers. And you want to support them so that they can live good lives too.
-- >
+  - >
     You're interested in making education better. You want to spend your limited time on this Earth solving society’s
     problems rather than contributing to them. If you're reading this and considering this job, we can assume you are
     incredibly lucky, because you have a marketable skill that pays well. You can decide where you want to work.
