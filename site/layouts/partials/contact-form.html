@@ -2,7 +2,7 @@
 <div class="mb4">
   <h4 class="f3 b lh-title mb3 tc">Drop us a line below</h4>
 
-  <form action="/pages/success" method="POST" data-netlify="true" data-netlify-recaptcha="true">
+  <form action="/pages/success" method="POST" data-netlify="true" data-netlify-recaptcha="true" netlify-honeypot="bazinga">
     <div class="flex-l mhn1-l">
       <!-- Name -->
       <div class="ph1-l w-50-l">
@@ -16,6 +16,12 @@
         <fieldset>
           <input type="email" id="email" name="email" placeholder="Email" class="w-100 mb2">
           <label for="email">Email</label>
+        </fieldset>
+      </div>
+      <div style="display: none">
+        <fieldset>
+          <input type="text" id="bazinga" name="bazinga" class="w-100 mb2">
+          <label for="bazinga"></label>
         </fieldset>
       </div>
     </div>
