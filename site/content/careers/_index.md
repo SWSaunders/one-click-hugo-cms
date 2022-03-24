@@ -22,10 +22,8 @@ reqs:
   - Excellent written and verbal communication
   - Strong sense of agency & ownership
   - Built and deployed production systems serving hundreds of thousands of users
-  - Extensive experience with python & django
 nice:
   - Worked for a very early stage startup (you know how to get things going from scratch)
-  - Experience with open edx
 perks:
   - Salary - You'll be paid well.
   - Equity - It's early stage, so it's a good amount.
@@ -37,6 +35,6 @@ perks:
     Be a hero to family members and friends who are teachers, students, or have children in school. Seriously.
     This will be a service that's truly helpful.
 opps:
-  - title: Senior Software Engineer (Python/Django)
+  - title: None available
 ---
 
