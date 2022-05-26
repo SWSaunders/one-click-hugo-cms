@@ -35,6 +35,6 @@ perks:
     Be a hero to family members and friends who are teachers, students, or have children in school. Seriously.
     This will be a service that's truly helpful.
 opps:
-  - title: None available
+  - title: Teacher Community Manager - Part Time
 ---
 
