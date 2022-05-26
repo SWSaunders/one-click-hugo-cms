@@ -1,0 +1,40 @@
+{{ define "main" }}
+
+<div class="d-flex justify-content-center flex-nowrap w-100-l">
+  <iframe
+      src="https://docs.google.com/presentation/d/e/2PACX-1vS8guJqos8fLtqsUj4zUIv7GyrIEsYElENbkCPGVoC8UZn3CmatjH3CGUE6G8oivA/embed?start=false&loop=false&delayms=5000"
+      frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true"
+      webkitallowfullscreen="true" class="w-100-l"></iframe>
+</div>
+
+<div class="center w-50-l">
+  <p class="f6">
+    Sign up to receive updates on AllCourse as we launch our service for this coming back-to-school season.
+  </p>
+  <form action="/pages/success" name="newsletter" method="POST" data-netlify="true" data-netlify-recaptcha="true"
+        netlify-honeypot="bazoinga">
+
+    <!-- Email -->
+    <div class="ph1-l">
+      <fieldset>
+        <input type="email" id="email" name="email" placeholder="Email" class="w-100 mb2">
+        <label for="email">Email</label>
+      </fieldset>
+    </div>
+    <div style="display: none">
+      <fieldset>
+        <input type="text" id="bazoinga" name="bazoinga" class="w-100 mb2">
+        <label for="bazoinga"></label>
+      </fieldset>
+    </div>
+
+    <div class="flex-ns justify-center-ns mb2" data-netlify-recaptcha="true"></div>
+
+    <!-- Button -->
+    <div class="tc pb3">
+      <button type="submit" class="btn w-100 w-auto-ns raise">Submit</button>
+    </div>
+  </form>
+</div>
+
+{{ end }}
