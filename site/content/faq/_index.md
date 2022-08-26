@@ -59,7 +59,8 @@ sections:
      - As you’d expect, the more courses you teach, and the more students you teach, the more you will make. If your courses prove to be popular, you will be able to increase your per-seat rate, or increase your class size, either of which will increase your compensation. (Of course, you may want to limit class sizes in order to attract more buyers or to offer your students more personal attention.)
    - question: When are teachers paid?
      answer:
-     - Teachers are paid twice: halfway through the course and then again once the full course has been delivered.
+     - >
+      Teachers are paid twice: halfway through the course and then again once the full course has been delivered.
    - question: Why does AllCourse use a per-seat payment model rather than an hourly salary?
      answer:
      - Some purchasers will only want one seat in a given course. Some will want several. Some will want the entire section. Purchases won’t want to pay a teacher’s full hourly salary if they’re only buying one seat, especially since there will be other purchasers buying seats in that same course. The only way to make payment fair for purchasers is to use a per-seat model.
