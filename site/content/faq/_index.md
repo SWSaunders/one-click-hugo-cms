@@ -67,7 +67,8 @@ sections:
    - question: How can I set my per-seat rate so that it approximates my hourly salary?
      answer:
      - Teachers can set a per-seat rate based on how many students they think will enroll and how many hours they expect to work.
-     - Example: Let’s say you want to make the equivalent of $32/hour. If you expect the class size to be 16, and you expect to do 200 hours of total work (teaching, collecting homework, grading, etc.), then you would set the per-seat fee to $400.
+     - >
+      Example: Let’s say you want to make the equivalent of $32/hour. If you expect the class size to be 16, and you expect to do 200 hours of total work (teaching, collecting homework, grading, etc.), then you would set the per-seat fee to $400.
    - question: What is AllCourse’s revenue share?
      answer:
      - While many marketplaces, even in education, charge a 20-30% service fee to pay for all the costs of running the service, AllCourse’s service fee is 15%.
@@ -101,7 +102,8 @@ sections:
      answer:
      - For a limited time, earn cash for every other teacher you invite to join the AllCourse community.
      - For every teacher you refer, we’ll give you the first $200 in service fees they generate for AllCourse.
-     - Example: You refer a teacher who teaches a course that starts in September 2022. The course generates $5000. The teacher receives $4500, and AllCourse receives $625 (which is our 12.5% service fee). For having referred that teacher, you receive the first $200 of that $625.
+     - >
+      Example: You refer a teacher who teaches a course that starts in September 2022. The course generates $5000. The teacher receives $4500, and AllCourse receives $625 (which is our 12.5% service fee). For having referred that teacher, you receive the first $200 of that $625.
      - For a referral to be valid, it must be the first time that person joined AllCourse. Referral bonuses are deducted from AllCourse service fees, which means you will receive bonuses when teachers you refer have taught courses on AllCourse and/or when admins you refer have purchased courses on AllCourse.
      - These referral bonuses are meant to be a big THANK YOU to early adopters for helping spread the word. We’d much rather spend our community marketing dollars on teachers than on Facebook and Google.
  - heading: For School Administrators
@@ -157,7 +159,8 @@ sections:
    - question: Can families pay for courses for our kids if their schools won’t?
      answer:
      - Yes, and this may be something you work out directly with the school administration, whereby you pay for a course but the school still gives it credit.
-     - Example: You’re a parent, and your child wants to take an Italian language course through AllCourse. Your child’s school only offers French and Spanish. You ask the principal if they will pay for a seat in the online Italian language course, but the principal declines, saying that they don’t have any extra budget for languages. However, if you’re willing to pay out-of-pocket for the course, you can ask that the school accept the credit for the online Italian course in lieu of an on-ground language course taught in the school.
+     - >
+      Example: You’re a parent, and your child wants to take an Italian language course through AllCourse. Your child’s school only offers French and Spanish. You ask the principal if they will pay for a seat in the online Italian language course, but the principal declines, saying that they don’t have any extra budget for languages. However, if you’re willing to pay out-of-pocket for the course, you can ask that the school accept the credit for the online Italian course in lieu of an on-ground language course taught in the school.
    - question: Is AllCourse good for home-schoolers?
      answer:
      - Yes. AllCourse provides a huge selection of subjects, class sizes, and teaching styles. And because the courses are taught by licensed teachers and offered in schools for-credit, schools and colleges immediately understand what these courses are about when they see them on your child’s record.
