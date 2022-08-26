@@ -8,7 +8,7 @@
     <h2 class="f4 b lh-title mb2">{{.heading}}</h2>
     <p class="f6 mb3 mw8 ml4">{{ .subheading | safeHTML }}</p>
     {{ range .points }}
-    <h3 class="f5 b lh-title mb2 ml2">{{.point}}</h3>
+    <h3 class="f5 b lh-title mb2 ml2">{{ .point }}</h3>
     {{ range .text }}
     <p class="f6 mb3 mw8 ml4">{{ . | safeHTML }}</p>
     {{ end }}
