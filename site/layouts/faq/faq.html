@@ -7,9 +7,9 @@
     {{ range .Params.sections }}
     <h2 class="f4 b lh-title mb2">{{.heading}}</h2>
       {{ range .questions }}
-      <h3 class="f5 b lh-title mb2">{{.question}}</h3>
+      <h3 class="f5 b lh-title mb2 ml2">{{.question}}</h3>
         {{ range .answer }}
-        <p class="f6 mb3 mw8">{{ . }}</p>
+        <p class="f6 mb3 mw8 ml4">{{ . }}</p>
         {{ end }}
       {{ end }}
     {{ end }}
