@@ -37,7 +37,7 @@ sections:
      - Classes are online. Teachers choose the video platform they're most comfortable delivering classes in (e.g., Zoom, Google Hangout, RingCentral) and let students know when to log in. Teachers also inform students what homework materials or classroom management tools (e.g., Google Classroom) will be used.
    - question: How can I contact customer support?
      answer:
-     - Email support@allcourse.com
+     - Email <a href="mailto:support@allcourse.com">support@allcourse.com</a>
  - heading: For Teachers
    questions:
    - question: What does AllCourse offer teachers?
@@ -50,8 +50,7 @@ sections:
      - AllCourse is a place for schools, students, and parents to find exceptional online teachers offering a variety of subject matters that can be accepted for credit in traditional schools. Only qualified and credentialed teachers with prior teaching experience can list their services on AllCourse.
    - question: How do I earn income using AllCourse?
      answer:
-     - 1. You can create a profile and wait for school admins to contact you about teaching online courses for them.
-     - 2. You can list courses that you’re planning to teach. They will be discoverable by any school admins who may need a course like yours for their students. You can let your friends and colleagues know about your courses and market your courses on social media. Do you teach a course particularly well? Do you teach a subject that’s in-demand or hard to find? Then list a course and let people know about it.
+     - <ol><li>You can create a profile and wait for school admins to contact you about teaching online courses for them.</li><li>You can list courses that you’re planning to teach. They will be discoverable by any school admins who may need a course like yours for their students. You can let your friends and colleagues know about your courses and market your courses on social media. Do you teach a course particularly well? Do you teach a subject that’s in-demand or hard to find? Then list a course and let people know about it.</li></ol>
      - The advantage of listing courses that you'll teach is that you don't have to wait for a school that needs to hire an online teacher to contact you. Your course listings could fill up quickly because they're open to students from multiple schools — especially if you teach something unusual or desirable, or teach your course with a particular style or pedagogy that will appeal to certain kinds of admins or parents.
      - Either way, you will be paid a per-seat rate for every student in your courses. The per-seat rate is set by you before the course starts.
    - question: How much can I earn?
