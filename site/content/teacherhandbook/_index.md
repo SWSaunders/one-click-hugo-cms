@@ -12,7 +12,7 @@ sections:
      - >
       3. Decide if you want to have a distinctive pedagogical approach. For instance:
      - >
-      <ul>
+      <ul class="f6 mb3 mw8 ml4" style="list-style: square inside;">
       <li>You could limit class size to a very small number of students, so as to position the course for students who will benefit from a lot of personal attention in that subject</li>
       <li>You could offer a girls-only STEM class under the theory that girls tend to speak up less in STEM classes when boys are present</li>
       <li>You could try a partially or fully flipped classroom in which students spend some or all of their homework hours watching video lessons to learn the underlying concepts and then work problems together with you in class. Video lessons could be curated from YouTube or other sites, or could be your own prerecorded videos, or a combination of both.</li>
@@ -23,7 +23,7 @@ sections:
      - >
       Once you decide exactly what you want your course to be, find a way to communicate in your course listing so that people can very quickly visualize what your course will be like. Course listings should clearly explain several things:
      - >
-      <ul>
+      <ul class="f6 mb3 mw8 ml4" style="list-style: square inside;">
       <li>what the course is all about and how it will proceed week to week</li>
       <li>the overarching course goals: what students will have accomplished by successfully completing the course</li>
       <li>your teaching experience and style</li>
