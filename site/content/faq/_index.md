@@ -50,7 +50,8 @@ sections:
      - AllCourse is a place for schools, students, and parents to find exceptional online teachers offering a variety of subject matters that can be accepted for credit in traditional schools. Only qualified and credentialed teachers with prior teaching experience can list their services on AllCourse.
    - question: How do I earn income using AllCourse?
      answer:
-     - <ol><li>You can create a profile and wait for school admins to contact you about teaching online courses for them.</li><li>You can list courses that you’re planning to teach. They will be discoverable by any school admins who may need a course like yours for their students. You can let your friends and colleagues know about your courses and market your courses on social media. Do you teach a course particularly well? Do you teach a subject that’s in-demand or hard to find? Then list a course and let people know about it.</li></ol>
+     - 1. You can create a profile and wait for school admins to contact you about teaching online courses for them. 
+     - 2. You can list courses that you’re planning to teach. They will be discoverable by any school admins who may need a course like yours for their students. You can let your friends and colleagues know about your courses and market your courses on social media. Do you teach a course particularly well? Do you teach a subject that’s in-demand or hard to find? Then list a course and let people know about it.
      - The advantage of listing courses that you'll teach is that you don't have to wait for a school that needs to hire an online teacher to contact you. Your course listings could fill up quickly because they're open to students from multiple schools — especially if you teach something unusual or desirable, or teach your course with a particular style or pedagogy that will appeal to certain kinds of admins or parents.
      - Either way, you will be paid a per-seat rate for every student in your courses. The per-seat rate is set by you before the course starts.
    - question: How much can I earn?
@@ -129,7 +130,7 @@ sections:
      - You can contact teachers directly through our chat feature to negotiate times or ask a teacher to add a new section.
    - question: What if I can't find enough teachers from my state on AllCourse?
      answer:
-     - AllCourse is a new marketplace. We opened the marketplace in just a few states to begin with. If you can’t find many teachers who are credentialed in your region, it’s probably because we haven’t yet officially launched there and begun recruiting teachers. However, teachers from all over are joining AllCourse every day, even without us actively recruiting them. So please bear with us during these early days, and keep checking back as we grow. You can also email us at customersupport@allcourse.com to tell us of your interest, and we will prioritize your location for teacher recruitment.
+     - AllCourse is a new marketplace. We opened the marketplace in just a few states to begin with. If you can’t find many teachers who are credentialed in your region, it’s probably because we haven’t yet officially launched there and begun recruiting teachers. However, teachers from all over are joining AllCourse every day, even without us actively recruiting them. So please bear with us during these early days, and keep checking back as we grow. You can also email us at <a href="mailto:support@allcourse.com">support@allcourse.com</a> to tell us of your interest, and we will prioritize your location for teacher recruitment.
    - question: How much does it cost? What payment methods do you accept?
      answer:
      - AllCourse is free to find courses, browse teachers, and post jobs.
