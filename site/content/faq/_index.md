@@ -140,8 +140,7 @@ sections:
      answer:
      - School admins can cancel seats and receive a refund, depending on when they cancel. For most courses, you can cancel and request a refund anytime during the first week of classes. This allows everyone involved to make sure that the fit is right between the student and the class. However, some courses are very short, such as custom courses that teachers offer to a particular school to solve a short-term staffing crisis. If a course is less than 3 weeks long, you can cancel and request a refund anytime prior to the first class session.
      - In the event that a teacher wishes to cancel a course listing, they may do so under the following conditions:
-     - * the minimum number of seats have not yet been met; and
-     - * the course start date has not passed
+     - <ul><li>the minimum number of seats have not yet been met; and</li><li>the course start date has not passed</li></ul>
      - This allows for teachers to cancel courses that do not meet their profitability threshold, but protects school administrators so that they can rely on seats they pay for being fulfilled. If a teacher cancels a course, 100% of the cost of the seats will be refunded to all purchasers.
    - question: How do referrals work and what are the eligibility requirements?
      answer:
