@@ -8,7 +8,3 @@
 
 [context.deploy-preview]
   command = "yarn build:preview"
-
-[[redirects]]
-  from = "https://www.allcourse.com/*"
-  to = "https://marketplace.allcourse.com"
