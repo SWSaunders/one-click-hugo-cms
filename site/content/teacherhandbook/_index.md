@@ -121,9 +121,9 @@ sections:
        </ul>
    - point: Tools for creating content
      text:
-     - >
-     Creating slides:
-     - >
+      - >
+       Creating slides:
+      - >
        <ul class="f6 mb3 mw8 ml5" style="list-style: none inside;">
        <li><a href="https://www.adobe.com/express/create/worksheet?utm_campaign=educators_all-all-approved-evergreen-4_ideas_to_scale_your_classes-20220603&utm_content=evergreen&utm_source=wordpress&utm_medium=blog">Adobe Express</a></li>
        <li><a href="https://www.canva.com/create/worksheets/?utm_campaign=educators_all-all-approved-evergreen-4_ideas_to_scale_your_classes-20220603&utm_content=evergreen&utm_source=wordpress&utm_medium=blog">Canva</a></li>
@@ -131,17 +131,17 @@ sections:
        <li><a href="https://www.microsoft.com/en-us/education/products/office">Microsoft Powerpoint</a></li>
        <li><a href="https://www.pinterest.ca/search/pins/?q=education&rs=typed&term_meta%5b%5d=education%7Ctyped">Pinterest Education</a></li>
        </ul> 
-     - >
-     Creating videos:
-     - >
+      - >
+       Creating videos:
+      - >
        <ul class="f6 mb3 mw8 ml5" style="list-style: none inside;">
        <li><a href="https://animoto.com/business/education">Animoto Education</a></li>
        <li><a href="https://vimeo.com/blog/category/video-school">Vimeo - tips for usage</a></li>
        <li><a href="https://www.youtube.com/channel/UCtFRv9O2AHqOZjjynzrv-xg">YouTube Learning</a></li>
        </ul> 
-     - >
-     Free textbook and interactive materials:
-     - >
+      - >
+       Free textbook and interactive materials:
+      - >
        <ul class="f6 mb3 mw8 ml5" style="list-style: none inside;">
        <li><a href="https://illustrativemathematics.org/">Illustrative Mathematics</a></li>
        <li><a href="https://openstax.org/">OpenStax</a></li>
