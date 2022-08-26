@@ -5,7 +5,7 @@
 <div class="bg-off-white pv4">
   <div class="ph3 mw7 center">
     <p class="f6 mb3 mw8 ml4">{{ .Params.text | safeHTML }}</p>
-    <h2 class="f4 b lh-title mb2">{{ .Params.subtitle }}</h2>
+    <h1 class="f2 b lh-title pa3 mb2">{{ .Params.subtitle }}</h1>
     {{ range .Params.steps }}
     <h3 class="f5 b lh-title mb2 ml2">{{ .heading }}</h3>
     <p class="f6 mb3 mw8 ml4">{{ .text | safeHTML }}</p>
