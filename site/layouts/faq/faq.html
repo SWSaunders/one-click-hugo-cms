@@ -9,9 +9,7 @@
       {{ range .questions }}
       <h3 class="f5 b lh-title mb2 ml2">{{.question}}</h3>
         {{ range .answer }}
-        {{< rawhtml >}}
-        <p class="f6 mb3 mw8 ml4">{{ . }}</p>
-        {{< /rawhtml >}}
+        <p class="f6 mb3 mw8 ml4">{{ . | safeHTML }}</p>
         {{ end }}
       {{ end }}
     {{ end }}
