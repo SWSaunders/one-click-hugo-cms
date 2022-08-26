@@ -30,4 +30,26 @@ sections:
       <li>where you’re licensed and your course is aligned to particular standards</li>
       </ul>
      - Decide on the schedule you want to offer. This will have a lot to do with where you’re licensed, and whether or not you have a full-time day job (especially if that day job is as a teacher in a school).
+     - >
+      <ul class="f6 mb3 mw8 ml4" style="list-style: square inside;">
+      <li>Many schools want online courses taught during school hours. If you want to appeal to these schools, you’ll need to find a way to teach during those hours, which could be difficult if you work another job during those hours.</li>
+      <li>If you have recently left full-time teaching but still have a current license, you will be relatively free to choose schedules that work well for schools.</li>
+      <li>If you currently have a full-time teaching job in a school and you’re looking to supplement your income, you may find that even if you have enough free time during the day that your school district views those hours as their time, not yours. You should talk to your school administrators and ask permission to teach through AllCourse during the day.</li>
+      <li>Alternately, if you are a full-time teacher in a school, and you happen to be licensed in another state in a different time zone, then you can take advantage of that to schedule your course. For example, teachers in the East Coast who also have a West Coast license could list courses after their school day is over but before West Coast schools have gotten out.</li>
+      <li>Lastly, if you are a full-time teacher in a school, you might want to let your administration know that you’re interested in teaching through AllCourse and ask if the school is interested in partnering and splitting the income.</li>
+      </ul>
+     - >
+      List the course requirements:
+     - >
+      <ul class="f6 mb3 mw8 ml4" style="list-style: square inside;">
+      <li>Pre-req.s (if any): previous courses (e.g., Computer Science I, Spanish I & II, etc.), skills (e.g., intermediate violin), etc.</li>
+      <li>Technology: video classroom solution, classroom management software, homework management solution, etc.</li>
+      <li>Materials: Open Educational Resources, textbooks, online homework solutions, your own content, outside videos, etc.</li>
+      </ul>
+     - >
+      Next steps:
+     - >
+      <ul class="f6 mb3 mw8 ml4" style="list-style: square inside;">
+      <li>After successfully completing the course, what will students be equipped to do next? In many cases, this will be the next logical course within that subject domain. Let them know if you also offer that course, or if they’ll have to look elsewhere. If you’re teaching an unusual language, buyers will want to know if they can count on you next semester and next year. No one is going to buy your Gaelic Language I course without knowing they can take Gaelic Language II and III with you in the coming years.</li>
+      </ul>
 ---
