@@ -139,9 +139,9 @@ sections:
        <li><a href="https://vimeo.com/blog/category/video-school">Vimeo - tips for usage</a></li>
        <li><a href="https://www.youtube.com/channel/UCtFRv9O2AHqOZjjynzrv-xg">YouTube Learning</a></li>
        </ul> 
-      - >
-       Free textbook and interactive materials:
-      - >
+     - >
+     Free textbook and interactive materials:
+     - >
        <ul class="f6 mb3 mw8 ml5" style="list-style: none inside;">
        <li><a href="https://illustrativemathematics.org/">Illustrative Mathematics</a></li>
        <li><a href="https://openstax.org/">OpenStax</a></li>
