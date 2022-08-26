@@ -2,4 +2,11 @@
 
 {{ partial "jumbotron" ( dict "imageUrl" .Params.image "title" .Title) }}
 
+<div class="bg-off-white pv4">
+  <div class="ph3 mw7 center">
+    {{ range .Params.sections }}
+    <h2 class="f2 b lh-title mb2">{{.heading}}</h2>
+    {{ end }}
+  </div>
+</div>
 {{ end }}
