@@ -1,6 +1,6 @@
 ---
 title: "How It Works"
-image: /img/133ce26fb25efd946ec6034232693d3f.jpg
+image: "/img/133ce26fb25efd946ec6034232693d3f.jpg"
 text: AllCourse is a new K-12 educational marketplace for traditional, for-credit courses — taught online. Teachers create profiles detailing their professional experience, and post listings of courses they’re planning to teach. Admins can buy just one seat in a given course, or every seat. AllCourse helps teachers earn more income, and helps schools hire online teachers quickly while also allowing them to offer a vast course catalog for students.
 header2: Teach what you love with the flexibility you need
 steps:
