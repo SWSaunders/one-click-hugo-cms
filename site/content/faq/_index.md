@@ -52,8 +52,8 @@ sections:
      answer:
      - >
       <ul class="f6 mb3 mw8 ml5" style="list-style: square inside;">
-      <li class="ml6">You can create a profile and wait for school admins to contact you about teaching online courses for them.</li> 
-      <li class="ml6">You can list courses that you’re planning to teach. They will be discoverable by any school admins who may need a course like yours for their students. You can let your friends and colleagues know about your courses and market your courses on social media. Do you teach a course particularly well? Do you teach a subject that’s in-demand or hard to find? Then list a course and let people know about it.</li>
+      <li>You can create a profile and wait for school admins to contact you about teaching online courses for them.</li> 
+      <li>You can list courses that you’re planning to teach. They will be discoverable by any school admins who may need a course like yours for their students. You can let your friends and colleagues know about your courses and market your courses on social media. Do you teach a course particularly well? Do you teach a subject that’s in-demand or hard to find? Then list a course and let people know about it.</li>
       </ul>
      - The advantage of listing courses that you'll teach is that you don't have to wait for a school that needs to hire an online teacher to contact you. Your course listings could fill up quickly because they're open to students from multiple schools — especially if you teach something unusual or desirable, or teach your course with a particular style or pedagogy that will appeal to certain kinds of admins or parents.
      - Either way, you will be paid a per-seat rate for every student in your courses. The per-seat rate is set by you before the course starts.
@@ -148,7 +148,7 @@ sections:
      - >
       In the event that a teacher wishes to cancel a course listing, they may do so under the following conditions:
      - >
-      <ul><li class="ml6">the minimum number of seats have not yet been met; and</li><li class="ml6">the course start date has not passed</li></ul>
+      <ul><li>the minimum number of seats have not yet been met; and</li><li>the course start date has not passed</li></ul>
      - This allows for teachers to cancel courses that do not meet their profitability threshold, but protects school administrators so that they can rely on seats they pay for being fulfilled. If a teacher cancels a course, 100% of the cost of the seats will be refunded to all purchasers.
    - question: How do referrals work and what are the eligibility requirements?
      answer:
