@@ -5,7 +5,7 @@
 <div class="bg-off-white pv4">
   <div class="ph3 mw7 center">
     {{ range .Params.sections }}
-    <h2 class="f4 b lh-title mt5 mb4">{{.heading}}</h2>
+    <h2 class="f4 b lh-title mb2">{{.heading}}</h2>
     <p class="f6 mb3 mw8 ml4">{{ .subheading | safeHTML }}</p>
     {{ range .points }}
     <h3 class="f5 b lh-title mb2 ml2">{{ .point }}</h3>
