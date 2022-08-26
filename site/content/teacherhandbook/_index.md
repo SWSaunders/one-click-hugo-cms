@@ -91,4 +91,74 @@ sections:
        <li>Review what was covered in the last session and the goals for this session.</li>
        <li>Review your students’ names.</li>
        </ul>
+   - point: Making class sessions engaging
+     text:
+     - We all know that it can be difficult to keep students engaged in the classroom. It can be even harder in online classes (though there are also many students who report finding it easier to pay attention in online classes). Teachers who teach online use a variety of techniques to try to maximize student engagement.
+     - >
+     Presentation tips:
+     - >
+       <ul class="f6 mb3 mw8 ml5" style="list-style: square inside;">
+       <li>Clarity is key. Extreme clarity helps students pay attention. Try to deliver material without jumping back and forth between ideas. Keep your presentation simple, straightforward, and logical. Try to reduce or eliminate vocalized pauses (“um”s and “uh”s).</li>
+       <li>Lists and groups help. (Groups are a collection of items that are closely related thematically but aren’t in any particular order. One example might be “the causes of World War I.”) Lists and groups provide conceptual scaffolding that helps students anticipate where you’re about to go, and gives them places to jump back in easily if their attention wandered for a moment.</li>
+       <li>Mnemonic devices.</li>
+       <li>Telling stories; it’s much easier for people to remember concepts when they hear about them within a simple narrative structure.</li>
+       <li>Levity and humor are always appreciated. But always keep it appropriate!</li>
+       <li>It pays to be 10% more energetic than you would be in a classroom. Modulate your voice and facial expressions more than you would in a classroom.</li>
+       </ul>
+     - >
+     Many teachers find that activities can increase engagement by breaking things up and having students exercise different skills. Some popular activities are:
+     - >
+       <ul class="f6 mb3 mw8 ml5" style="list-style: square inside;">
+       <li>student in-class presentations</li>
+       <li>individual project-based activities</li>
+       <li>group projects</li>
+       <li>interactive games</li>
+       <li>team debates</li>
+       <li>working problems together in class</li>
+       <li>surveying student opinions on class topics</li>
+       <li>peer review / peer grading</li>
+       <li>progressive projects, in which each student contributes a piece and then it goes to the next student. This works particularly well in creative writing or arts courses</li>
+       </ul>
+   - point: Tools for creating content
+     text:
+     - >
+     Creating slides:
+     - >
+       <ul class="f6 mb3 mw8 ml5" style="list-style: none inside;">
+       <li><a href="https://www.adobe.com/express/create/worksheet?utm_campaign=educators_all-all-approved-evergreen-4_ideas_to_scale_your_classes-20220603&utm_content=evergreen&utm_source=wordpress&utm_medium=blog">Adobe Express</a></li>
+       <li><a href="https://www.canva.com/create/worksheets/?utm_campaign=educators_all-all-approved-evergreen-4_ideas_to_scale_your_classes-20220603&utm_content=evergreen&utm_source=wordpress&utm_medium=blog">Canva</a></li>
+       <li><a href="https://support.google.com/a/users/answer/10164039?hl=en?utm_campaign=educators_all-all-approved-evergreen-4_ideas_to_scale_your_classes-20220603&utm_content=evergreen&utm_source=wordpress&utm_medium=blog">Google Slides</a></li>
+       <li><a href="https://www.microsoft.com/en-us/education/products/office">Microsoft Powerpoint</a></li>
+       <li><a href="https://www.pinterest.ca/search/pins/?q=education&rs=typed&term_meta%5b%5d=education%7Ctyped">Pinterest Education</a></li>
+       </ul> 
+     - >
+     Creating videos:
+     - >
+       <ul class="f6 mb3 mw8 ml5" style="list-style: none inside;">
+       <li><a href="https://animoto.com/business/education">Animoto Education</a></li>
+       <li><a href="https://vimeo.com/blog/category/video-school">Vimeo - tips for usage</a></li>
+       <li><a href="https://www.youtube.com/channel/UCtFRv9O2AHqOZjjynzrv-xg">YouTube Learning</a></li>
+       </ul> 
+      - >
+       Free textbook and interactive materials:
+      - >
+       <ul class="f6 mb3 mw8 ml5" style="list-style: none inside;">
+       <li><a href="https://illustrativemathematics.org/">Illustrative Mathematics</a></li>
+       <li><a href="https://openstax.org/">OpenStax</a></li>
+       <li><a href="http://utahmiddleschoolmath.org/">Utah Middle School Math</a></li>
+       <li><a href="https://greatminds.org/">Great Minds</a></li>
+       <li><a href="https://greatminds.org/eurekamathsquared">Eureka Math</a></li>
+       <li><a href="https://greatminds.org/english/witwisdom">Wit & Wisdom</a></li>
+       <li><a href="https://greatminds.org/science/phdscience">PhD Science</a></li>
+       <li><a href="https://www.ck12.org/student/">CK-12</a></li>
+       <li><a href="https://www.khanacademy.org/signup?isteacher=1">Khan Academy</a></li>
+       </ul>
+   - point: Tips to build up strong ratings
+     text:
+     - Start with all the little things: communicate clearly with admins, students and parents. Respond to their administrative items and questions quickly. Start and end classes on time. Get grades done as soon as the course is completed. Make everything as painless for them as you can.
+     - Make it easy for them to see if they want to take your class or not. Sample videos help a lot. So does a clear, logical syllabus. Don’t be offended if they drop in the first week. They’re balancing their own complex logistical needs and it probably has nothing to do with you. Rather, view the first week of your course as a chance to really show off the material and your own unique style.
+     - Good teaching online is mostly the same as good teaching in a schoolroom. Are you organized? It makes life easier for everyone. Do you care about your students? They can tell. Do you love the material? It shows. Do you give them personal attention or a helping hand when they need it? They always appreciate it (even if they don’t always show it).
+     - Of course, there are also some important differences when teaching online. Students online are less of a captive audience than you may be used to. It pays to be 10% more energetic than you would be in a classroom. Humor goes a long way (but keep it appropriate!). Modulate your voice and facial expressions more than you would in a classroom. Most important, pay close attention to students who are missing classes or homework! If it looks like they may be beginning to fall behind, contact them early and often. And contact their school and parents as well if you deem it appropriate. It hurts everyone involved to let students slip through the cracks.
+     - Try to make the material come alive. There’s a reason why you’ve devoted your career to it. Find those things about it that are awesome, and share them with students. If you don’t seem passionate about the material, why would they be?
+     - Be pleasant and easy to work with. Admins are inviting you into their schools and families are inviting you into their lives. Make them want to invite you back.
 ---
